@@ -3,7 +3,7 @@ $(document).ready(function() {
     countdown: {
         year: 2019,
         month: 6,
-        day: 9,
+        day: 21,
         hour: 12,
         minute: 00,
         second: 00
