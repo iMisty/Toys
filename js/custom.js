@@ -2,8 +2,8 @@ $(document).ready(function() {
 	var config = {
     countdown: {
         year: 2019,
-        month: 6,
-        day: 21,
+        month: 7,
+        day: 6,
         hour: 12,
         minute: 00,
         second: 00
