@@ -45,7 +45,6 @@ export default {
     },
     test(e) {
       this.board = true;
-      console.log(e.target.innerHTML);
       this.message = e.target.innerHTML;
       this.message = this.message.replace(/<[^>]*>|/g, "");
     },
